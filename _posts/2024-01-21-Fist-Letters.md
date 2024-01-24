@@ -1,8 +1,8 @@
 ---
 title: First Letters
 
-categories: First Ones
-tags: First    # TAG names should always be lowercase
+categories: First
+tags: first    # TAG names should always be lowercase
 ---
 ## INTRODUCTION
 
