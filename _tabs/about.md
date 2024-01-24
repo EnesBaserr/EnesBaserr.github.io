@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+
 {: .prompt-tip }
 ## Introduction
-Selam Ben ENES
+
+Greetings I'm Enes, a passionate CS student in Bogazici University, Istanbul Turkey. I'm currently Part-Time Software Developer at Turkish Airlanes IT.
