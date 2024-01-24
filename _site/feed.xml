@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Enes Baser</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-01-25T03:49:52+08:00</updated>
+  <updated>2024-01-25T04:09:25+08:00</updated>
   <author>
     <name>Enes Baser</name>
     <uri>http://localhost:4000/</uri>
@@ -86,6 +86,51 @@ Hello Everyone !!!
       INTRODUCTION
 
 Hello Everyone !!!
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>First Letters</title>
+    <link href="http://localhost:4000/posts/Fist-Letters/" rel="alternate" type="text/html" title="First Letters" />
+    <published>2024-01-21T00:00:00+08:00</published>
+  
+    <updated>2024-01-21T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Fist-Letters/</id>
+    <content src="http://localhost:4000/posts/Fist-Letters/" />
+    <author>
+      <name>Enes Baser</name>
+    </author>
+
+  
+    
+    <category term="First" />
+    
+    <category term="Ones" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      INTRODUCTION
+
+
+  This is test for prod.
+  Kocaeli
+  Kocaeli
+  Kocaeli
+  Kocaeli
+
 
     </summary>
   
